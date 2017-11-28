@@ -2,7 +2,6 @@
 # TDWI Intro to ML, Orlando, Dec 2017
 Hands-on Introduction to Machine Learning with Python, Pandas, Matplotlib and Scikit-Learn
 
-### [Slides](None)
 
 ## Quick start guide
 
