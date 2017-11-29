@@ -11,6 +11,8 @@ Hands-on Introduction to Machine Learning with Python, Pandas, Matplotlib and Sc
 git clone https://github.com/Dataweekends/tdwi_intro_ml_orlando_dec_2017.git
 ```
 
+> TIP: If you are not familiar with git and github you can just download the most recent release file from the [releases tab](https://github.com/Dataweekends/tdwi_intro_ml_orlando_dec_2017/releases/) and unpack the zip file on your computer.
+
 #### Download and Install Anaconda Python 3.6
 
 https://www.continuum.io/downloads
