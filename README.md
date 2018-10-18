@@ -15,7 +15,7 @@ git clone https://github.com/Dataweekends/tdwi_intro_ml_one_day.git
 
 #### Download and Install Anaconda Python 3.6
 
-https://www.continuum.io/downloads
+https://www.anaconda.com/download
 
 #### Change to course folder
 
