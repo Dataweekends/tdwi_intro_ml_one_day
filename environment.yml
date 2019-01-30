@@ -2,11 +2,11 @@ name: tdwi
 channels:
 - defaults
 dependencies:
-- python=3.6
-- pip==10.0.*
-- numpy==1.14.*
-- jupyter==1.0.*
-- matplotlib==2.2.*
-- scikit-learn==0.20.*
-- scipy==1.1.*
-- pandas==0.23.*
+- python=3.7
+- pip
+- numpy
+- jupyter
+- matplotlib
+- scikit-learn
+- scipy
+- pandas
