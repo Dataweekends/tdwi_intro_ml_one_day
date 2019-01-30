@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Dataweekends/tdwi_intro_ml_one_day.svg?branch=master)](https://travis-ci.org/Dataweekends/tdwi_intro_ml_one_day)
+
+
 # TDWI Intro to Machine Learning
 
 Hands-on Introduction to Machine Learning with Python, Pandas, Matplotlib and Scikit-Learn
