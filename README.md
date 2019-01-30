@@ -1,11 +1,12 @@
-
 # TDWI Intro to Machine Learning
+
 Hands-on Introduction to Machine Learning with Python, Pandas, Matplotlib and Scikit-Learn
 
 
 ## Quick start guide
 
 #### Download and Install Anaconda Python 3.7
+
 The first step is to download and install Python 3 on your system, together with all the necessary libraries. Luckily for us Anaconda provides a convenient way to do so. Just download and install it here:
 
 https://www.anaconda.com/download
@@ -29,6 +30,7 @@ cd tdwi_intro_ml_one_day
 > TIP: If you downloaded the zip file and not the repo, your folder name will be `tdwi_intro_ml_one_day_master`, just cd into that one: `cd tdwi_intro_ml_one_day_master`
 
 #### Launch Jupyter Notebook
+
 From the course folder, in the terminal, type:
 ```
 jupyter notebook
@@ -38,6 +40,7 @@ If the command is not recognized try to close and open the terminal again, maybe
 > TIP: You can also launch Jupyter using the Anaconda Launcher. This will open Jupyter at your default Home location and you will have to manually navigate to the course folder.
 
 #### Open your browser to
+
 If it didn't open automatically, you can find Jupyter at the following url:
 ```
 http://localhost:8888
@@ -66,11 +69,13 @@ conda env create
 wait for the environment to create, this may take a few minutes
 
 #### Activate the environment (Mac/Linux)
+
 ```
 conda activate tdwi
 ```
 
 #### Activate the environment (Windows)
+
 ```
 activate tdwi
 ```
