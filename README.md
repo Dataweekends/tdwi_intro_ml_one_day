@@ -1,3 +1,7 @@
+Next in-person Bootcamp: 3-7 June, San Francisco. [Register here](https://bootcamp.zerotodeeplearning.com)
+
+------
+
 [![Build Status](https://travis-ci.org/Dataweekends/tdwi_intro_ml_one_day.svg?branch=master)](https://travis-ci.org/Dataweekends/tdwi_intro_ml_one_day)
 
 
