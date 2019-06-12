@@ -1,4 +1,4 @@
-Next in-person Bootcamp: 3-7 June, San Francisco. [Register here](https://bootcamp.zerotodeeplearning.com)
+## [Check our Zero To Deep Learning 5 day bootcamp. New dates are out!](https://bootcamp.zerotodeeplearning.com)
 
 ------
 
